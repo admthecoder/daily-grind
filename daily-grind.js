@@ -64,7 +64,7 @@ switch (today) {
     today = "Monday"
     coffee = {
       name: "Bubble Tea",
-      color: "pink",
+      color: "lightblue",
       pic: "images/bubble-tea.jpg",
       alt: "A picture of a bubble tea",
       day: "Monday",
@@ -76,7 +76,7 @@ switch (today) {
     today = "Tuesday";
     coffee = {
       name: "Drip",
-      color: "black",
+      color: "purple",
       pic: "images/drip.jpg",
       alt: "A picture of a drip coffee",
       day: "Tuesday",
@@ -88,7 +88,7 @@ switch (today) {
     today = "Wednesday";
     coffee = {
       name: "Caramel Latte",
-      color: "green",
+      color: "yellow",
       pic: "images/caramel-latte.jpg",
       alt: "A picture of a caramel latte",
       day: "Wednesday",
@@ -100,7 +100,7 @@ switch (today) {
       today = "Thursday";
       coffee = {
         name: "Cold Brew",
-        color: "khaki",
+        color: "tan",
         pic: "images/cold-brew.jpg",
         alt: "A picture of a cold brew coffee",
         day: "Thursday",
@@ -112,7 +112,7 @@ switch (today) {
         today = "Friday";
         coffee = {
           name: "Frappaccino",
-          color: "lightblue",
+          color: "lightgrey",
           pic: "images/frappaccino.jpg",
           alt: "A picture of a frappaccino coffee",
           day: "Friday",
@@ -124,7 +124,7 @@ switch (today) {
           today = "Saturday";
           coffee = {
             name: "Mocha",
-            color: "olive",
+            color: "tomato",
             pic: "images/mocha.jpg",
             alt: "A picture of a mocha coffee",
             day: "Saturday",
